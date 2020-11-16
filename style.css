@@ -1,0 +1,20 @@
+#marqueeStyle {
+    font-size: 30px;
+    color: aqua;
+}
+
+iframe {
+    height: 600px;
+    width: 1000px;
+}
+
+body {
+    text-align: center;
+    scroll-behavior: smooth;
+}
+.text-capitalize{
+    color: blueviolet;
+}
+.D{
+    color: blueviolet;
+}
