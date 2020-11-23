@@ -1,3 +1,7 @@
+#myNavbar{
+    position: fixed;
+}
+
 #marqueeStyle {
     font-size: 30px;
     color: aqua;
